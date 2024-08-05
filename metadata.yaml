@@ -1,0 +1,30 @@
+_repo: Luostarin-kasvatti-b-Kertomus-vanhasta-Karjalasta_74059
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rauanheimo, Reino
+    birthdate: 1901
+    deathdate: 1953
+    gutenberg_agent_id: '57326'
+    url: http://www.gutenberg.org/2009/agents/57326
+    wikipedia: https://fi.wikipedia.org/wiki/Reino_Rauanheimo
+description: ''
+gutenberg_issued: '2024-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74059'
+language: fi
+pgterms:marc905: 20240713044032rauanheimo
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aPorvoo :$bWSOY, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Luostarin kasvatti : $b Kertomus vanhasta Karjalasta'
+url: http://www.gutenberg.org/ebooks/74059
